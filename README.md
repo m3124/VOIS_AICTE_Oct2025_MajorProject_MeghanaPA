@@ -1,6 +1,5 @@
 ### VOIS_AICTE_Oct2025_MajorProject_MeghanaPA
-## 📂 Dataset Description
-The dataset used in this analysis is the **Netflix Titles Dataset** (available on [Kaggle](https://www.kaggle.com/shivamb/netflix-shows)).  
+## 📂 Dataset Description 
 It contains detailed information about movies and TV shows available on Netflix, including:  
 
 | Column Name | Description |
